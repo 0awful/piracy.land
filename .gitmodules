@@ -1,0 +1,24 @@
+[submodule "bootstrapper"]
+	path = bootstrapper
+	url = ./bootstrapper
+[submodule "rust_lib"]
+	path = rust_lib
+	url = ./rust_lib
+[submodule "examples"]
+	path = examples
+	url = ./examples
+[submodule "frontend_container"]
+	path = frontend_container
+	url = ./frontend_container
+[submodule "pirate_syntax"]
+	path = pirate_syntax
+	url = ./pirate_syntax
+[submodule "js_lib"]
+	path = js_lib
+	url = ./js_lib
+[submodule "orchestrator"]
+	path = orchestrator
+	url = ./orchestrator
+[submodule "search_experience"]
+	path = search_experience
+	url = ./search_experience
