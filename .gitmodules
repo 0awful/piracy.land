@@ -28,3 +28,6 @@
 [submodule "loading_screen"]
 	path = loading_screen
 	url = ./loading_screen
+[submodule "pub_sub"]
+	path = pub_sub
+	url = ./pub_sub
