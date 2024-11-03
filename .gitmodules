@@ -22,3 +22,6 @@
 [submodule "search_experience"]
 	path = search_experience
 	url = ./search_experience
+[submodule "plunder"]
+	path = plunder
+	url = ./plunder
