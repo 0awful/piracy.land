@@ -25,3 +25,6 @@
 [submodule "plunder"]
 	path = plunder
 	url = ./plunder
+[submodule "loading_screen"]
+	path = loading_screen
+	url = ./loading_screen
